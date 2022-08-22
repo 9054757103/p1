@@ -12,7 +12,4 @@ fun main(){
     println("String Value:-"+c)
     println("Double Value:-"+b)
     println("Interger Value:-"+a)
-
-    println("Interger Value:-"+a)
-
 }
